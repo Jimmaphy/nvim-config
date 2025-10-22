@@ -29,3 +29,5 @@ The configuration uses [lazy](https://github.com/folke/lazy.nvim) as package man
   Determines which servers to install
 - [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig).
   Starts and connects with LSP's
+- [copilot](https://github.com/github/copilot.vim).
+  GitHub Copilot integration for code completion.
