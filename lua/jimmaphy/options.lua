@@ -13,3 +13,10 @@ vim.opt.smartindent = true
 
 -- Display
 vim.opt.wrap = false
+
+-- Search
+vim.opt.hlsearch = false
+vim.opt.incsearch = true
+
+-- Colors
+vim.opt.termguicolors = false
