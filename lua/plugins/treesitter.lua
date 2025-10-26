@@ -8,7 +8,7 @@ return {
     config = function()
         require('nvim-treesitter.configs').setup({
             ensure_installed = {
-                "lua", "go",
+                "lua", "go", "vimdoc",
             },
 
             sync_install = false,

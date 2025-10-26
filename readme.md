@@ -15,6 +15,12 @@ This page provides an overview of changes.
 - Allow use of terminal colors
 
 
+## Shortcuts
+
+- `Space + d` in Normal Mode to show diagnostics in a floating window
+- `Control + j` and `Control + k` in Insert Mode to navigate completion suggestions
+
+
 ## Plugins
 
 The configuration uses [lazy](https://github.com/folke/lazy.nvim) as package manager for the editor.
@@ -31,3 +37,6 @@ The configuration uses [lazy](https://github.com/folke/lazy.nvim) as package man
   Starts and connects with LSP's
 - [copilot](https://github.com/github/copilot.vim).
   GitHub Copilot integration for code completion.
+- [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) and [cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp).
+  Autocompletion engine and LSP source for it.
+  Setup in insert mode to provide suggestions as you type, filling them during selection.
