@@ -21,6 +21,11 @@ This page provides an overview of changes.
 - `Control + j` and `Control + k` in Insert Mode to navigate completion suggestions
 
 
+## Language-specific Settings
+
+- Go: run `go fmt` on file save, according to the [Go documentation](https://go.dev/gopls/editor/vim).
+
+
 ## Plugins
 
 The configuration uses [lazy](https://github.com/folke/lazy.nvim) as package manager for the editor.

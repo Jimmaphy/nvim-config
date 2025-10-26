@@ -1,3 +1,4 @@
 require("jimmaphy.options")
-require("jimmaphy.lazy")
 require("jimmaphy.keys")
+require("jimmaphy.lazy")
+require("languages")
