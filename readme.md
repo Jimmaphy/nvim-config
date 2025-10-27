@@ -19,6 +19,7 @@ This page provides an overview of changes.
 
 - `Space + d` in Normal Mode to show diagnostics in a floating window
 - `Control + j` and `Control + k` in Insert Mode to navigate completion suggestions
+- `Space + f + f` in Normal Mode to search for files using Telescope
 
 
 ## Language-specific Settings
@@ -45,3 +46,5 @@ The configuration uses [lazy](https://github.com/folke/lazy.nvim) as package man
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) and [cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp).
   Autocompletion engine and LSP source for it.
   Setup in insert mode to provide suggestions as you type, filling them during selection.
+- [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim).
+  Fuzzy finder for files and other resources.
