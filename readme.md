@@ -19,6 +19,7 @@ This page provides an overview of changes.
 
 - `Space + d` in Normal Mode to show diagnostics in a floating window
 - `Control + j` and `Control + k` in Insert Mode to navigate completion suggestions
+- `Control + Space` in Insert Mode to manually trigger completion
 - `Space + f + f` in Normal Mode to search for files using Telescope
 
 
