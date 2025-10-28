@@ -48,3 +48,5 @@ The configuration uses [lazy](https://github.com/folke/lazy.nvim) as package man
   Setup in insert mode to provide suggestions as you type, filling them during selection.
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim).
   Fuzzy finder for files and other resources.
+- [comment.nvim](https://github.com/numToStr/Comment.nvim).
+  Easy commenting of code using `gcc` in Normal Mode.
